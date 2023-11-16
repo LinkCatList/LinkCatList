@@ -1,3 +1,4 @@
+<p style="text-align: center;">🤡17yo competitive programmer from durka🤡</p>
 
 <a href="https://codeforces.com/profile/Robot_chicken">
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Robot_chicken&theme=dark&disable_animations=true&show_icons=false&force_username=false" alt="Codeforces_Stats" /> 
