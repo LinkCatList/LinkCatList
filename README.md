@@ -1,4 +1,5 @@
-<p style="text-align: center;">17yo competitive programmer from durka😈</p>
+
+### *`17yo competitive programmer from durka😈`*
 
 
 <a href="https://codeforces.com/profile/Robot_chicken">
