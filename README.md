@@ -1,5 +1,5 @@
 
-### *`17yo competitive programmer from durka😈`*
+### *`17yo BrawlStars enjoyer`*
 
 
 <a href="https://codeforces.com/profile/Robot_chicken">
