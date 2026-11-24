@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="230" viewBox="0 0 600 230" role="img" aria-label="whoami: lera, C++ backend developer">
+  <style>
+    text{font-family:"Fira Code","JetBrains Mono",Consolas,Menlo,monospace;font-size:16px}
+    .p{fill:#7ee787}.c{fill:#e6edf3}.o{fill:#a5d6ff}.m{fill:#8b949e}.pink{fill:#ff7b9c}
+    .l{opacity:0;animation:show 12s infinite}
+    @keyframes show{0%{opacity:0}4%{opacity:1}92%{opacity:1}100%{opacity:0}}
+    .cur{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion: reduce){.l{animation:none;opacity:1}}
+  </style>
+  <rect width="600" height="230" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <rect width="600" height="34" rx="14" fill="#161b22"/><rect y="20" width="600" height="14" fill="#161b22"/>
+  <circle cx="22" cy="17" r="6" fill="#ff5f57"/><circle cx="42" cy="17" r="6" fill="#febc2e"/><circle cx="62" cy="17" r="6" fill="#28c840"/>
+  <text x="300" y="22" text-anchor="middle" class="m" font-size="13">lera@linkcatlist: ~</text>
+  <text x="22" y="66" class="l" style="animation-delay:0s"><tspan class="p">$</tspan><tspan class="c"> whoami</tspan></text>
+  <text x="22" y="90" class="l o" style="animation-delay:.8s">lera · C++ backend developer</text>
+  <text x="22" y="122" class="l" style="animation-delay:1.8s"><tspan class="p">$</tspan><tspan class="c"> cat favourite_words.txt</tspan></text>
+  <text x="22" y="146" class="l o" style="animation-delay:2.6s">кд чд · окак · мяу · понпон · +- нормик</text>
+  <text x="22" y="178" class="l" style="animation-delay:3.6s"><tspan class="p">$</tspan><tspan class="c"> ping alina</tspan></text>
+  <text x="22" y="202" class="l pink" style="animation-delay:4.4s">скоро встреча 🍉  ↓<tspan class="cur c"> █</tspan></text>
+</svg>
