@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="widget/terminal.svg" alt="whoami: lera · C++ backend developer" width="600" />
-</p>
 
 <p align="center">
   <a href="https://codeforces.com/profile/LinkCatList"><img src="https://img.shields.io/badge/Codeforces-LinkCatList-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
